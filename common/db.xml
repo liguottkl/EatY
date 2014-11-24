@@ -1,0 +1,10 @@
+<?xml   version="1.0"   encoding="utf-8"?>
+<customer_info>
+    <Name ID="1" Type="VarChar" Length="10" Index="True" Desc="名称"></Name>
+    <Sex ID="2" Type="VarChar" Length="2" Desc="性别"></Sex>
+    <Age ID="3" Type="Integer" Desc="年龄"></Age>
+    <NotSelectivity>
+        <Mobile ID="4" Type="VarChar" Length="15" Desc="电话"></Mobile>
+        <Email ID="5" Type="VarChar" Length="30" Desc="邮箱"></Email>
+    </NotSelectivity>
+</customer_info>
